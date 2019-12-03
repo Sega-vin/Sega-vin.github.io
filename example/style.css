@@ -1,0 +1,43 @@
+.site-list{
+	display: flex;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.site-list__item{
+	list-style: none;
+	margin-left: 50px;
+}
+label{
+	font-size: 32px;	
+}
+input{
+	display: none;
+}
+.wrapper p{
+	color: red;
+}
+.wrapper--y p{
+	color: #453;
+}
+.wrapper--m p{
+	color: #989;
+}
+.container{
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.title{
+	text-align: center;
+}
+.home, .about, .help{
+   display: none;
+}
+input[id = "home"]:checked ~ #home{
+	display: block;
+}
+input[id = "about"]:checked ~ #about{
+	display: block;
+}
+input[id = "help"]:checked ~ #help{
+	display: block;
+}
