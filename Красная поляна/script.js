@@ -20,8 +20,6 @@ window.addEventListener('scroll', function(){
    	  scrolling.classList.remove('scroll');
    };
 });
-
-vid.volume = 0.5;
 vid.addEventListener('mouseenter', function() {
   vid.play();
 });
