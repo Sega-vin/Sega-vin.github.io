@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Mobile Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Copy-5" stroke="#99CF61" stroke-width="6">
+            <path d="M202.933943,207.113562 C202.933943,182.713737 222.713936,162.933943 247.113562,162.933943 L252.595695,162.933943 C276.995321,162.933943 296.775314,182.713737 296.775314,207.113562 C296.775314,219.263374 291.165666,230.733197 281.575641,238.191826 L255.848636,258.201718 C241.646459,269.24744 233.3392,286.232963 233.3392,304.225638 L233.3392,308.533028 C233.3392,313.761492 237.577707,318 242.806171,318 C248.034635,318 252.273143,313.761492 252.273143,308.533028 L252.273143,304.225638 C252.273143,292.075826 257.882791,280.606002 267.472816,273.147374 L293.199821,253.137482 C307.401998,242.09176 315.709257,225.106237 315.709257,207.113562 C315.709257,172.256766 287.452206,144 252.595695,144 L247.113562,144 C212.257051,144 184,172.256766 184,207.113562 C184,212.342026 188.238508,216.580533 193.466972,216.580533 C198.695436,216.580533 202.933943,212.342026 202.933943,207.113562 Z" id="Page-1" fill-rule="nonzero"></path>
+            <circle id="Oval" cx="242.5" cy="347.5" r="11.5"></circle>
+            <path d="M248,123.5 L248,104.313227" id="Line" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M317.5,152.5 L332.5,139.5" id="Line" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M333.5,211 L355.087033,211" id="Line" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M143.5,211 L165.087033,211" id="Line" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M167.5,152.5 L182.5,139.5" id="Line" stroke-linecap="round" stroke-linejoin="round" transform="translate(175.000000, 146.000000) scale(-1, 1) translate(-175.000000, -146.000000) "></path>
+        </g>
+    </g>
+</svg>

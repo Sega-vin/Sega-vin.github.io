@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Mobile Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Mobile-Copy" stroke="#99CF61" stroke-width="6">
+            <g id="Group" transform="translate(159.000000, 144.000000)">
+                <path d="M155.811804,13.7769946 C155.811804,13.7769946 172.672281,-6.19432196 183.418375,1.95393276 C194.164469,10.1021875 177.303992,27.359188 177.303992,27.359188 L142.381154,62.6691762 L142.381154,179.464365 L133.096739,188 L102.083957,100.696134 L75.2200344,127.794188 L72.535479,157.797596 L64.4739403,168.66282 L53.7304704,144.154377 L45.6085751,152.302631 L34.9254618,141.437407 L42.9843763,133.289153 L18.8076328,125.140898 L29.5511027,114.275674 L61.7867607,114.275674 L88.653308,87.1165937 L0,54.5182682 L10.7460941,43.6556975 L125.087684,40.2992851 L155.811804,13.7769946 Z" id="Fill-1"></path>
+            </g>
+            <path d="M163.5,238.5 L129.5,272.5" id="Line-2"></path>
+            <path d="M258.5,319.5 L224.5,353.5" id="Line-2"></path>
+            <path d="M165.5,327.5 L148.811681,344.188319" id="Line-2"></path>
+        </g>
+    </g>
+</svg>

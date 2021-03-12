@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Mobile Copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Copy-4" stroke="#99CF61" stroke-width="6">
+            <g id="Group-2" transform="translate(130.000000, 136.000000)">
+                <path d="M211.59817,0.259419304 C227.078165,0.256927959 239.627042,12.9715995 239.624523,28.6560548 L239.608937,136.46934 C239.606418,152.15701 227.053458,164.875722 211.573462,164.878213 L151.630529,164.88786 L157.970074,200.4515 L170.752653,200.449443 L170.751276,219.024769 L69.2014918,219.041113 L69.2028687,200.465786 L81.9822744,200.463729 L88.3364523,164.898047 L28.3935187,164.907694 C12.9135235,164.910185 0.364646753,152.195514 0.367165752,136.507843 L0.382751644,28.6945583 C0.385270127,13.010103 12.9382307,0.291391575 28.418226,0.288900229 L211.59817,0.259419304 Z" id="Fill-1" stroke-linecap="round" stroke-linejoin="round"></path>
+                <rect id="Rectangle" x="22" y="19" width="195" height="119" rx="6"></rect>
+                <path d="M102.529412,166 L137.470588,166" id="Line" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M100.538889,201 L140.5,201" id="Line" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Group" transform="translate(168.500000, 78.500000) scale(-1, 1) translate(-168.500000, -78.500000) translate(141.000000, 59.000000)" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M3,0.65 L3,38.35" id="Line-2" transform="translate(3.000000, 19.500000) scale(-1, 1) translate(-3.000000, -19.500000) "></path>
+                    <path d="M28,17.6470588 L28,38.3933429" id="Line-2" transform="translate(28.000000, 28.000000) scale(-1, 1) translate(-28.000000, -28.000000) "></path>
+                    <path d="M53,27.5 L53,38.3461538" id="Line-2" transform="translate(52.000000, 33.000000) scale(-1, 1) translate(-52.000000, -33.000000) "></path>
+                </g>
+                <path d="M144.5,110 L192.510416,110" id="Line-3" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Page-1" transform="translate(45.000000, 38.000000)" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M45,0 L45,32 L77,32 C77,14.326851 62.673149,0 45,0" id="Fill-4"></path>
+                    <path d="M32,13 C14.326851,13 0,27.3268766 0,45.0000573 C0,62.673238 14.326851,77 32,77 C49.673149,77 64,62.673238 64,45.0000573 L32,45.0000573 L32,13 Z" id="Fill-1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

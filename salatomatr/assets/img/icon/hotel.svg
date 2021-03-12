@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Mobile" stroke="#99CF61" stroke-width="6">
+            <g id="Group-4" transform="translate(138.000000, 182.000000)">
+                <g id="Page-1" transform="translate(112.176603, 102.448628) rotate(-5.000000) translate(-112.176603, -102.448628) translate(7.176603, 24.948628)" stroke-linejoin="round">
+                    <path d="M193.37561,108.285446 L193.37561,92.2511737 C193.37561,46.2734272 155.970029,9 109.829268,9 L103.068293,9 C56.9275317,9 19.5219512,46.2734272 19.5219512,92.2511737 L19.5219512,107.638685 C11.907161,108.593427 6,114.995587 6,122.841408 L6,130.267606 C6,138.771737 12.9193756,145.666667 21.4536585,145.666667 L188.546341,145.666667 C197.080624,145.666667 204,138.771737 204,130.267606 L204,122.841408 C204,116.031174 199.530029,110.314272 193.37561,108.285446" id="Fill-1" transform="translate(105.000000, 77.333333) rotate(5.000000) translate(-105.000000, -77.333333) "></path>
+                    <path d="M40.5,100.5 L168.012921,111.655935" id="Line"></path>
+                </g>
+                <path d="M92,19.5 L92,19.5 L92,19.5 C92,8.73044738 100.730447,1.97833472e-15 111.5,0 L112,0 L112,0 C122.769553,-1.97833472e-15 131.5,8.73044738 131.5,19.5 L131.5,19.5" id="Path-4" stroke-linejoin="bevel"></path>
+            </g>
+            <path d="M317.5,191.5 L333.5,171.5" id="Line-2" stroke-linejoin="round"></path>
+            <path d="M167.5,191.5 L183.5,171.5" id="Line-2" stroke-linejoin="round" transform="translate(175.500000, 181.500000) scale(-1, 1) translate(-175.500000, -181.500000) "></path>
+            <path d="M249,161.5 L249,138.5" id="Line-2" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
